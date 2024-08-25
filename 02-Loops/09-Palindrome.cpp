@@ -6,7 +6,9 @@
  * @details
               //? Time limit: 3 second
               //? Memory limit: 64 megabytes
-              Given a number X. Determine if the number is prime or not.
+              Given a number N . Print 2 lines that contain the following respectively:
+                1.  Print N in a reversed order and not leading zeroes.
+                2.  If N is a palindrome number print “ YES” otherwise, print “ NO.
               Input : Only one line containing a number X (2 ≤ X ≤ 105).
               Output : print “YES” if the number is prime and “NO” otherwise.
               Example:
