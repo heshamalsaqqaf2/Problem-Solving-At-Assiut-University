@@ -4,8 +4,8 @@
  * @author    Hesham Z. Alsaqqaf | heshamdev2@gmail.com.
  * @file      Problem 09: Palindrome.
  * @details
-              //? Time limit: 3 second
-              //? Memory limit: 64 megabytes
+              //? Time limit: 1 second
+              //? Memory limit: 256 megabytes
               Given a number N . Print 2 lines that contain the following respectively:
                 1.  Print N in a reversed order and not leading zeroes.
                 2.  If N is a palindrome number print “ YES” otherwise, print “ NO.
