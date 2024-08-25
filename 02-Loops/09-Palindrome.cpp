@@ -9,8 +9,8 @@
               Given a number N . Print 2 lines that contain the following respectively:
                 1.  Print N in a reversed order and not leading zeroes.
                 2.  If N is a palindrome number print “ YES” otherwise, print “ NO.
-              Input : Only one line containing a number X (2 ≤ X ≤ 105).
-              Output : print “YES” if the number is prime and “NO” otherwise.
+              Input : Only one line containing a number N (1 ≤ N ≤ 10 ).
+              Output : Print the answer required above.
               Example:
                 - standard input => standard output
                     7 => YES
@@ -37,7 +37,7 @@ int main() {
     cin >> numbers;
 
     int originalNumber = numbers;
-    
+
     int reversedNumber{ 0 };
     while (numbers > 0) {
         int digit = numbers % 10;
@@ -45,7 +45,7 @@ int main() {
         numbers /= 10;
     }
 
-    cout << reversedNumber <<" ";
+    cout << reversedNumber << " ";
     if (originalNumber == reversedNumber)
         cout << "YES, Is Palindrome.\n";
     else
