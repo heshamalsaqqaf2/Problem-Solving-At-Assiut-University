@@ -13,8 +13,8 @@
               Output : Print the answer required above.
               Example:
                 - standard input => standard output
-                    7 => YES
-                    15 => NO
+                    121 => 121 YES
+                    160 => 61 NO
               //! Note:
                 A prime number is a number that is greater than 1 and has only two factors which are 1 and itself. In other words : prime number divisible only by 1 and itself.
                 Be careful that 1 is not prime.
