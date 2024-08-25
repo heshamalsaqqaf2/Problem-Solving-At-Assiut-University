@@ -18,11 +18,9 @@
               //! Note:
                 A palindrome number is a number that reads the same forward or backward.
                 For example: 12321, 101 are palindrome numbers, while 1201, 221 are not.
-                A leading zero is any 0 digit that comes before the first nonzero digit in a number for 
-                    example : numbers (005 , 01 , 0123 , 02 , 000250 ) are leading zeroes but 
+                A leading zero is any 0 digit that comes before the first nonzero digit in a number for
+                    example : numbers (005 , 01 , 0123 , 02 , 000250 ) are leading zeroes but
                     ( 5 , 123 , 20 ,2500 ) not leading zeroes numbers .
-                Second Example :
-                    15 not is prime because it is divisible by 3 ,5, so the answer is NO.
  *
  * @copyright Copyright Programmer/Hesham (c) 2024.
  */
