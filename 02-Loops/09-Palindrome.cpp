@@ -16,12 +16,11 @@
                     121 => 121 YES
                     160 => 61 NO
               //! Note:
-                A prime number is a number that is greater than 1 and has only two factors which are 1 and itself. In other words : prime number divisible only by 1 and itself.
-                Be careful that 1 is not prime.
-                The first few prime numbers are.
-                First Example :
-                    7 is prime because it is not divisible by 2,3,4,5,6, and only divisible by 1 and itself,
-                        so the answer is YES.
+                A palindrome number is a number that reads the same forward or backward.
+                For example: 12321, 101 are palindrome numbers, while 1201, 221 are not.
+                A leading zero is any 0 digit that comes before the first nonzero digit in a number for 
+                    example : numbers (005 , 01 , 0123 , 02 , 000250 ) are leading zeroes but 
+                    ( 5 , 123 , 20 ,2500 ) not leading zeroes numbers .
                 Second Example :
                     15 not is prime because it is divisible by 3 ,5, so the answer is NO.
  *
