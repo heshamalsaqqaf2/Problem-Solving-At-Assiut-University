@@ -2,26 +2,21 @@
  * @version   0.1
  * @date      2024-08-27
  * @author    Hesham Z. Alsaqqaf | heshamdev2@gmail.com.
- * @file      Problem 11: Divisors.
+ * @file      Problem 10: Primes From 1 To N.
  * @details
-              //? Time limit: 1 second
+              //? Time limit: 3 second
               //? Memory limit: 256 megabytes
-              Given a number N. Print all the divisors of N in ascending order.
-              Input : Only one line containing a number N (1 ≤ N ≤ 10).
-              Output : Print all positive divisors of N, one number per line.
+              Given a number N . Print all prime numbers between 1 and N inclusive.
+              Input : Only one line containing a number N (2 ≤ N ≤ 10 ).
+              Output : Print all prime numbers between 1 and N (inclusive) separated by a space.
               Example:
                 - standard input => standard output
-                    6 => 1 2 3 6
-                    7 => 1 7
-                    4 => 1 2 4
+                    10 => 2 3 5 7
               //! Note:
-                Divisor of Number is A number that divides the integer exactly (no remainder).
-                In other words the division works perfectly with no fractions or remainders involved.
-                Examples:
-                    - 3 is a divisor of 12, because 12 ÷ 3 = 4 exactly
-                    - 4 is a divisor of 12, because 12 ÷ 4 = 3 exactly.
-                    - 5 is not a divisor of 12, because 12 ÷ 5 = 2 with a remainder of 2.
-                a divisor is also a factor of the original integer.
+                - A prime number is a number that is greater than 1 and has only two factors which are 1 and itself.
+                - In other words : prime number divisible only by 1 and itself.
+                - Be careful that 1 is not prime.
+                - The first few prime numbers are 2 3 5 7 11 19 23 29 31 43.....
  *
  * @copyright Copyright Programmer/Hesham (c) 2024.
  */
