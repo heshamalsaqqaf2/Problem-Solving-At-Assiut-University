@@ -6,11 +6,9 @@
  * @details
               //? Time limit: 1 second
               //? Memory limit: 256 megabytes
-              Given a number N . Print 2 lines that contain the following respectively:
-                1.  Print N in a reversed order and not leading zeroes.
-                2.  If N is a palindrome number print “ YES” otherwise, print “ NO.
-              Input : Only one line containing a number N (1 ≤ N ≤ 10 ).
-              Output : Print the answer required above.
+              Given a number N. Print all the divisors of N in ascending order.
+              Input : Only one line containing a number N (1 ≤ N ≤ 10).
+              Output : Print all positive divisors of N, one number per line.
               Example:
                 - standard input => standard output
                     121 => 121 YES
