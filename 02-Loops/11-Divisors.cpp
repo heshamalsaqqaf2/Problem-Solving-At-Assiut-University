@@ -11,14 +11,12 @@
               Output : Print all positive divisors of N, one number per line.
               Example:
                 - standard input => standard output
-                    121 => 121 YES
-                    160 => 61 NO
+                    6 => 1 2 3 6
+                    7 => 1 7
+                    4 => 1 2 4
               //! Note:
-                A palindrome number is a number that reads the same forward or backward.
-                For example: 12321, 101 are palindrome numbers, while 1201, 221 are not.
-                A leading zero is any 0 digit that comes before the first nonzero digit in a number for
-                    example : numbers (005 , 01 , 0123 , 02 , 000250 ) are leading zeroes but
-                    ( 5 , 123 , 20 ,2500 ) not leading zeroes numbers .
+                Divisor of Number is A number that divides the integer exactly (no remainder).
+                In other words the division works perfectly with no fractions or remainders involved.
  *
  * @copyright Copyright Programmer/Hesham (c) 2024.
  */
