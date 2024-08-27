@@ -1,8 +1,8 @@
 /**
  * @version   0.1
- * @date      2024-08-24
+ * @date      2024-08-27
  * @author    Hesham Z. Alsaqqaf | heshamdev2@gmail.com.
- * @file      Problem 09: Palindrome.
+ * @file      Problem 11: Divisors.
  * @details
               //? Time limit: 1 second
               //? Memory limit: 256 megabytes
