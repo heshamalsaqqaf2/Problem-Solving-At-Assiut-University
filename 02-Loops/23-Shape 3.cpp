@@ -15,6 +15,11 @@ int main() {
                 cout << "*";
             cout << "\n";
         }
+        for (int i = number; i >= 0; --i) {
+            for (int j = 1; j <= 2 * i - 1; ++j)
+                cout << "*";
+            cout << "\n";
+        }
     }
     else cout << "Enter Number In Rang (1<=N<=99)\n";
 
