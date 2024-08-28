@@ -20,7 +20,7 @@ int main() {
                 for (int i = m + 1; i < n; ++i) {
                     if (i % 2 != 0) {
                         sum += i;
-                        // cout << i << " ";
+                        cout << i << " ";
                     }
                 }
                 cout << "Sum Odd Numbers = " << sum << "\n";
