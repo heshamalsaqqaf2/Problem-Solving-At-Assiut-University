@@ -29,7 +29,7 @@ int main() {
                 for (int i = n + 1; i < m; ++i) {
                     if (i % 2 != 0) {
                         sum += i;
-                        // cout << i << " ";
+                        cout << i << " ";
                     }
                 }
                 cout << "Sum Odd Numbers = " << sum << "\n";
