@@ -11,10 +11,8 @@ int main() {
 
     if (1 <= number && number <= 99) {
         for (int i = 1; i <= number; ++i) {
-            for (int j = 0; j < i; ++j) {
-                i + 2;
+            for (int j = 0; j < i; ++j)
                 cout << "*";
-            }
             cout << "\n";
         }
     }
